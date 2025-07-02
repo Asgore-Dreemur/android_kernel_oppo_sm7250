@@ -260,10 +260,6 @@ SECTIONS
 	STABS_DEBUG
 
 	HEAD_SYMBOLS
-
-	.bss : {			/* bss segment		*/
-         RTIC_BSS
-	}
 }
 
 /*
